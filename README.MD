@@ -8,7 +8,7 @@
 - Deve conter uma classe Principal para executar as seguintes ações:
 - Inserir todos os funcionários, na mesma ordem e informações da tabela acima.
 - Remover o funcionário “João” da lista.
-- Imprimir todos os funcionários com todas suas informações, sendo que:
+- Imprimir todos os funcionários com todas suas informações, sendo que: <br>
 • informação de data deve ser exibido no formato dd/mm/aaaa; <br>
 • informação de valor numérico deve ser exibida no formatado com separador de milhar como ponto e decimal como vírgula. <br>
 - Os funcionários receberam 10% de aumento de salário, atualizar a lista de funcionários com novo valor.
